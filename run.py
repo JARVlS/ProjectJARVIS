@@ -9,5 +9,5 @@ if __name__ == "__main__":
     
 db = Database()
 day = datetime.datetime.timestamp(datetime.datetime(2023, 1, 18, 18, 0))
-# print(db.execute(f"insert into Kalender (date, plan) values ({day}, 'Bowling with David');"))
+print(db.execute(f"insert into Kalender (date, plan) values ({day}, 'Bowling with David');"))
 print(db.execute(f"select * from kalender;"))

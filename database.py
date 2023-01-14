@@ -36,6 +36,9 @@ class Database:
                    
         return return_value
     
+    def get(self):
+        return self.cur.execute("select * from kalender;").fetchall()
+    
     def insert(self, date: datetime.timestamp, plan: str)->bool:
         try: 
             self.cur.execute("insert into kalender (date, plan) values (?, ?)", (date, plan))
@@ -43,9 +46,22 @@ class Database:
         except sql.Error as e:
             return {"success": False, "error": e.args[0]}
         
-    def delete(self, id: int):
+    def delete(self, id_: int|list[int]):
+        try:
+            if isinstance(id_, int):
+                self.cur.execute('delete from kalender where id = ?', (str(id_)))
+            
+            if isinstance(id_, list):
+                to_delete = ','.join(str(id__) for id__ in id_ if isinstance(id__, int))
+                self.cur.execute(f'delete from kalender where id in ({to_delete});')
+            
+            self.con.commit()
+            return {"success": True, "error": None}
         
-        
+        except sql.Error as e:
+            return {"success": False, "error": e.args[0]}
     
 if __name__ == "__main__":
     d = Database()
+    # print(d.delete([1,2,3,4]))
+    # print(d.get())

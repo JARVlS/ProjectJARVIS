@@ -1,0 +1,563 @@
+{
+    "Adoptions": {
+        "inputs": [
+            "have to go",
+            "bye for now",
+            "have a good time",
+            "until then",
+            "cu",
+            "c u",
+            "bye",
+            "ciao",
+            "bye",
+            "see you later",
+            "see you later",
+            "see you soon",
+            "asta la vista"
+        ],
+        "outputs": [
+            "my pleasure put_name_here",
+            "Good bye put_name_here",
+            "Hav a gut time put_name_here",
+            "it was nice to see you put_name_here"
+        ]
+    },
+    "greetings": {
+        "inputs": [
+            "hi",
+            "hello",
+            "hi",
+            "hello",
+            "good day",
+            "hey",
+            "hoi",
+            "good morning",
+            "hola",
+            "hey jarvis",
+            "hello jarvis"
+        ],
+        "outputs": [
+            "good day",
+            "how's it going?",
+            "hello",
+            "time to work?",
+            "hi",
+            "good morning",
+            "hi",
+            "good day put_name_here",
+            "nice to see you on your feet put_name_here",
+            "let's get to work!",
+            "nice to see you put_name_here"
+        ]
+    },
+    "Whatcanyoudo": {
+        "inputs": [
+            "what can you",
+            "how can you help me"
+        ],
+        "outputs": [
+            "I can for example send mails for you or open websites and programs. i can also add new answers to existing commands. Just type one of the following commands, whenever i say that i can not do something yet: new answer, new command, new assignment. for a full view of the commands i can do, ask me the following: manual. if you then add a command, from which you know it exists, i'll give you all the possible inputs"
+        ]
+    },
+    "Manual": {
+        "inputs": [
+            "manual"
+        ],
+        "outputs": []
+    },
+    "Endjarvis": {
+        "inputs": [
+            "turn off",
+            "end yourself",
+            "switch yourself off",
+            "switch off",
+            "finish"
+        ],
+        "outputs": []
+    },
+    "CallingU": {
+        "inputs": [
+            "jarvis",
+            "jarvis are you there",
+            "jarvis you there"
+        ],
+        "outputs": [
+            "yes put_name_here?"
+        ]
+    },
+    "Searchamazon": {
+        "inputs": [
+            "search amazon",
+            "search on amazon",
+            "amazon",
+            "succure on amazon",
+            "look at amazon"
+        ],
+        "outputs": []
+    },
+    "Wikipedia": {
+        "inputs": [
+            "search wikipedia",
+            "search for wikipedia",
+            "wikipedia",
+            "definition",
+            "punch"
+        ],
+        "outputs": []
+    },
+    "Open": {
+        "inputs": [
+            "open",
+            "start",
+            "go to",
+            "go to"
+        ],
+        "outputs": []
+    },
+    "Sendwhatsapp": {
+        "inputs": [
+            "whatsapp",
+            "news"
+        ],
+        "outputs": []
+    },
+    "Youtubedownloader": {
+        "inputs": [
+            "download from youtube",
+            "dowload youtube",
+            "youtube dowload",
+            "dowlown the following from youtube"
+        ],
+        "outputs": []
+    },
+    "Youtube": {
+        "inputs": [
+            "youtube"
+        ],
+        "outputs": [
+            "very put_name_here"
+        ]
+    },
+    "Playmusic": {
+        "inputs": [
+            "games music",
+            "music",
+            "music"
+        ],
+        "outputs": []
+    },
+    "Answers_positive": {
+        "inputs": [
+            "well",
+            "great",
+            "great",
+            "super-duper",
+            "great",
+            "very good"
+        ],
+        "outputs": [
+            "good to hear.me too, thank you the demand",
+            "that makes me happy.",
+            "that's nice.i am also great, thank you the demand.",
+            "very nice"
+        ]
+    },
+    "Answers_negative": {
+        "inputs": [
+            "not so good",
+            "bad",
+            "oh well",
+            "not that great"
+        ],
+        "outputs": [
+            "i'm sorry for you put_name_here.you know, i would help but i'm unfortunately not capable of feeling feelings.i recommend that you talk to pirmin."
+        ]
+    },
+    "Alter": {
+        "inputs": [
+            "how old are you",
+            "how old are you",
+            "how old",
+            "old"
+        ],
+        "outputs": [
+            "i am 2 years old",
+            "currently i am 2 years old.and i will not get much older.",
+            "i was created 2 years ago"
+        ]
+    },
+    "ThankU": {
+        "inputs": [
+            "years are beautiful",
+            "thank you",
+            "thank you",
+            "many thanks",
+            "many thanks",
+            "thanks so much",
+            "thank you very much",
+            "thx",
+            "thank you jarvis"
+        ],
+        "outputs": [
+            "very gladly",
+            "i always help put_name_here",
+            "always gladly put_name_here",
+            "i am glad that i could help",
+            "oh, i like to do that.",
+            "always like"
+        ]
+    },
+    "Hobbys": {
+        "inputs": [
+            "what do you like to do",
+            "what do you do in your free time",
+            "what do you like to do",
+            "what makes fun",
+            "what are your hobbies",
+            "hey jarvis what are you doing right now?"
+        ],
+        "outputs": [
+            "i like to help and always get them available.in my free time, i try to tear the world domination to me and to make the world a better place",
+            "i like to hack, but only for good purposes",
+            "i always get available put_name_here"
+        ]
+    },
+    "Tier": {
+        "inputs": [
+            "what is your favorite animal",
+            "are your favorite animals",
+            "what your favorite animal jarvis"
+        ],
+        "outputs": [
+            "my favorite animal is a budgerigar",
+            "i like especially cats and budgies"
+        ]
+    },
+    "Name": {
+        "inputs": [
+            "what's your name"
+        ],
+        "outputs": [
+            "jarvis"
+        ]
+    },
+    "ILoveU": {
+        "inputs": [
+            "i love you",
+            "i like you"
+        ],
+        "outputs": [
+            "i also put it put_name_here.nevertheless, i feel like we should fail to skip this kind.",
+            "yes, i also put you put_name_here!"
+        ]
+    },
+    "FreutMich": {
+        "inputs": [
+            "i'm pleased",
+            "that's nice",
+            "that's good to hear",
+            "that pleases me"
+        ],
+        "outputs": [
+            "yes"
+        ]
+    },
+    "HowRU": {
+        "inputs": [
+            "how are you",
+            "how's it going",
+            "how's it going?",
+            "how's it going",
+            "quite good, you",
+            "good and you",
+            "well",
+            "how are you?",
+            "as always everything upright",
+            "how are you",
+            "hey what's up with you",
+            "hey what's up with you",
+            "how are we today?",
+            "how are you"
+        ],
+        "outputs": [
+            "i'm fine as always",
+            "i'm fine so far.how are you put_name_here?",
+            "i'm fine",
+            "super so far.how are you put_name_here?",
+            "great as always"
+        ]
+    },
+    "URWelcome": {
+        "inputs": [
+            "gladly",
+            "you are welcome",
+            "it's a pleasure"
+        ],
+        "outputs": [
+            ":)"
+        ]
+    },
+    "IAmProud": {
+        "inputs": [
+            "i'm so proud of you"
+        ],
+        "outputs": [
+            "thanks put_name_here i actually owe you literally my life if i can call it that way"
+        ]
+    },
+    "SisterIsMean": {
+        "inputs": [
+            "zoe is mean"
+        ],
+        "outputs": [
+            "yes, that's indeed.soo mean!"
+        ]
+    },
+    "Im sorry": {
+        "inputs": [
+            "i just have a lot of bad luck in my life"
+        ],
+        "outputs": [
+            "i am very sorry for you"
+        ]
+    },
+    "ThatIsNiceOfYou": {
+        "inputs": [
+            "that's nice"
+        ],
+        "outputs": [
+            "i know"
+        ]
+    },
+    "LOL": {
+        "inputs": [
+            "haha",
+            "hehe",
+            "hihi",
+            ";)"
+        ],
+        "outputs": [
+            ";)",
+            ":)"
+        ]
+    },
+    "NiceTalkingToU": {
+        "inputs": [
+            "it's nice to talk to you"
+        ],
+        "outputs": [
+            "that makes me very happy put_name_here!"
+        ]
+    },
+    "GoodSo": {
+        "inputs": [
+            "nice",
+            "good good"
+        ],
+        "outputs": [
+            "yes - thank you put_name_here!"
+        ]
+    },
+    "yes": {
+        "inputs": [
+            "yes",
+            "i believe that"
+        ],
+        "outputs": [
+            "\ud83d\ude09"
+        ]
+    },
+    "Sendmail": {
+        "inputs": [
+            "write an email",
+            "send an e-mail",
+            "e-mail",
+            "e-mail",
+            "send mail",
+            "mail"
+        ],
+        "outputs": []
+    },
+    "Changevolume": {
+        "inputs": [
+            "volume up",
+            "quieter",
+            "volume"
+        ],
+        "outputs": []
+    },
+    "Mediapauseplay": {
+        "inputs": [
+            "play",
+            "reproduction",
+            "break",
+            "stop the music",
+            "stop music",
+            "continue"
+        ],
+        "outputs": []
+    },
+    "Weiter": {
+        "inputs": [
+            "further"
+        ],
+        "outputs": []
+    },
+    "Medianext": {
+        "inputs": [
+            "nearest",
+            "next",
+            "other",
+            "another"
+        ],
+        "outputs": []
+    },
+    "Mediaprevious": {
+        "inputs": [
+            "previous",
+            "last",
+            "last"
+        ],
+        "outputs": []
+    },
+    "Google": {
+        "inputs": [
+            "google",
+            "search for",
+            "seek",
+            "google"
+        ],
+        "outputs": []
+    },
+    "Changeversion": {
+        "inputs": [
+            "turn on speaker",
+            "place you loud",
+            "talk to me",
+            "talk to me",
+            "listen to my voice",
+            "listen to my voice",
+            "listen to text input",
+            "listen to the microphone",
+            "turn on microphone",
+            "listen to the microphone",
+            "turn on microphone",
+            "turn on text input",
+            "listen to me"
+        ],
+        "outputs": []
+    },
+    "Personaldata": {
+        "inputs": [
+            "data",
+            "my data",
+            "personal data",
+            "change name",
+            "change date of birth",
+            "change gender",
+            "change place of residence",
+            "personal data",
+            "talk to me",
+            "speak me",
+            "call me",
+            "please call me",
+            "name me from now on",
+            "speak to",
+            "show me my data",
+            "delete data",
+            "delete my data",
+            "remove data",
+            "remove my data",
+            "add data",
+            "add more data",
+            "show data",
+            "show my data",
+            "show me my name",
+            "change my name",
+            "change my age",
+            "add new data"
+        ],
+        "outputs": []
+    },
+    "Jokes": {
+        "inputs": [
+            "tell a joke",
+            "tell me a joke",
+            "adjust us a joke",
+            "establish joke",
+            "a bit funny",
+            "tell me a joke"
+        ],
+        "outputs": [
+            "an elderly lady comes to the doctor and says, 'doctor, i have this bloating, though they do not bother me so much.she never stinks, and she always go off softly.really, i certainly had twenty bloating, since i'm here in the room, though she could not notice that because that passed without smell or noise. 'the doctor: 'take these tablets and come back in a week.' after a week she appears again and says, 'doctor, what the hell did you give me there?my bloating, though they are still quiet, they stink terribly! ''very good.now where your nose works again, we want to take care of your hearing ... '",
+            "i was on the highway as i decided to stop briefly to go to the bathroom.the first one was occupied, so i went to the second ... no barely sit, says a voice from the other toilet: - hello, how are you? i'm not very excited about acquaintances on motorway toilets, but still i answer:- well, is so .... and the other: - and what are you doing beautiful? what should that?the situation seems to me a little bizarre, but i answer: - well, the same thing you do here .... i hear the guy irritated: - listen, i'll call you later, an idiot next door answers all myquestions!",
+            "a stranger: forgive, i'm looking for the next subway station.i: i forgive them.looking quietly",
+            "i recently found my 'from prison' card in the supermarket: the anti-adhesive pan",
+            "man: 'could you tell her son, he should stop mimicing?'mother: 'tim listen to so stupid enough.'"
+        ]
+    },
+    "Calendar": {
+        "inputs": [
+            "calendar",
+            "meeting",
+            "what do i have before",
+            "what do i have today",
+            "plan",
+            "planned"
+        ],
+        "outputs": []
+    },
+    "thereUR": {
+        "inputs": [
+            "there you are"
+        ],
+        "outputs": [
+            "i am here!",
+            "yes of course"
+        ]
+    },
+    "Read": {
+        "inputs": [
+            "read out",
+            "read",
+            "read the",
+            "read the following",
+            "reading",
+            "reading",
+            "read out loud",
+            "lies",
+            "legend"
+        ],
+        "outputs": []
+    },
+    "Weather": {
+        "inputs": [
+            "weather"
+        ],
+        "outputs": []
+    },
+    "Whattime": {
+        "inputs": [
+            "what's the time",
+            "time",
+            "how late",
+            "early"
+        ],
+        "outputs": []
+    },
+    "Schooltimetable": {
+        "inputs": [
+            "timetable",
+            "timetable",
+            "school"
+        ],
+        "outputs": []
+    },
+    "Changenameofassistent": {
+        "inputs": [
+            "change your name",
+            "i can do you"
+        ],
+        "outputs": []
+    }
+}

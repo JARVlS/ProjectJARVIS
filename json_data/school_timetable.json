@@ -1,0 +1,100 @@
+{
+    "monday": {
+        "1 - 2": {
+            "course": "Art",
+            "room": "201"
+        },
+        "3 - 4": {
+            "course": "German",
+            "room": "H07"
+        },
+        "5 - 6": {
+            "course": "Maths",
+            "room": "H06"
+        },
+        "7": {
+            "course": "Pause",
+            "room": " "
+        },
+        "8 - 9": {
+            "course": "Informatics",
+            "room": "206"
+        }
+    },
+    "tuesday": {
+        "3 - 4": {
+            "course": "English",
+            "room": "H07"
+        },
+        "5 - 6": {
+            "course": "History",
+            "room": "H03"
+        },
+        "7": {
+            "course": "Pause",
+            "room": " "
+        },
+        "8 - 9": {
+            "course": "Physics",
+            "room": "121 at the OGW"
+        },
+        "10 - 11": {
+            "course": "Informatics [A]",
+            "room": "206"
+        }
+    },
+    "wednesday": {
+        "1 - 2": {
+            "course": "Informatics",
+            "room": "206"
+        },
+        "3": {
+            "course": "English",
+            "room": "H07"
+        },
+        "4": {
+            "course": "German",
+            "room": "H07"
+        },
+        "5 - 6": {
+            "course": "Physics [A]; Maths [B]",
+            "room": "121 at the OGW [A]; C1 [B]"
+        }
+    },
+    "thursday": {
+        "3 - 4": {
+            "course": "Religion",
+            "room": "K02"
+        },
+        "5 - 6": {
+            "course": "Geographics",
+            "room": "H05"
+        },
+        "7": {
+            "course": "Pause",
+            "room": " "
+        },
+        "8 - 9": {
+            "course": "VMA",
+            "room": "L3"
+        }
+    },
+    "friday": {
+        "1 - 2": {
+            "course": "Maths",
+            "room": "H06"
+        },
+        "5 - 6": {
+            "course": "Physics",
+            "room": "119 at the OGW"
+        },
+        "7": {
+            "course": "Pause",
+            "room": " "
+        },
+        "8 - 9": {
+            "course": "Sports",
+            "room": "OTHER SCHOOL"
+        }
+    }
+}

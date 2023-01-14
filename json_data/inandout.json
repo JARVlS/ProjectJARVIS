@@ -1,0 +1,571 @@
+{
+    "Adoptions": {
+        "inputs": [
+            "muss los",
+            "bis bald",
+            "schönen tag noch",
+            "bis dann",
+            "cu",
+            "c u",
+            "tschüss",
+            "ciao",
+            "bye",
+            "bis später",
+            "bis nachher",
+            "bis gleich",
+            "asta la vista"
+        ],
+        "outputs": [
+            "war mir eine freude put_name_here",
+            "bis bald",
+            "schöne zeit noch put_name_here",
+            "war schön sie zu sehen put_name_here"
+        ]
+    },
+    "Greetings": {
+        "inputs": [
+            "hallo",
+            "hello",
+            "hi",
+            "moin",
+            "guten tag",
+            "hey",
+            "tach",
+            "hoi",
+            "moin moin",
+            "hola",
+            "hallöle",
+            "solli",
+            "hey jarvis",
+            "hallo jarvis"
+        ],
+        "outputs": [
+            "tag",
+            "wie gehts?",
+            "moin",
+            "zeit zu arbeiten?",
+            "hallo",
+            "moin moin",
+            "hi",
+            "guten tag put_name_here",
+            "schön sie auf den beinen zu sehen put_name_here",
+            "an die arbeit!",
+            "schön dass sie hier sind"
+        ]
+    },
+    "Whatcanyoudo": {
+        "inputs": [
+            "was kannst du",
+            "wie kannst du mir helfen"
+        ],
+        "outputs": [
+            "ich kann für dich z.b. mails verschicken oder websiten und programme öffnen. ich kann auch neue antworten zu bereits vorhandenen befehlen hinzufügen. tippe dafür einfach immer, wenn ich sage, dass ich etwas noch nicht kann einen der folgenden befehle: neue antwort, neues kommando, neue zuordnung. für eine vollansicht der befehle, die ich ausführe kann, frage mich: manual. wenn du dann noch ein kommando dranhängst, von dem du weißt, dass es existiert, gebe ich dir alle dafür gültigen inputs zurück"
+        ]
+    },
+    "Manual": {
+        "inputs": [
+            "manual"
+        ],
+        "outputs": []
+    },
+    "Endjarvis": {
+        "inputs": [
+            "ausschalten",
+            "schalte dich aus",
+            "beenden",
+            "abschalten",
+            "beende"
+        ],
+        "outputs": []
+    },
+    "CallingU": {
+        "inputs": [
+            "jarvis",
+            "jarvis bist du da",
+            "jarvis you there"
+        ],
+        "outputs": [
+            "ja put_name_here?"
+        ]
+    },
+    "Searchamazon": {
+        "inputs": [
+            "durchsuche amazon",
+            "suche auf amazon nach",
+            "amazon",
+            "gucke auf amazon",
+            "schaue auf amazon"
+        ],
+        "outputs": []
+    },
+    "Wikipedia": {
+        "inputs": [
+            "durchsuche wikipedia",
+            "suche auf wikipedia nach",
+            "wikipedia",
+            "definition",
+            "schlag doch"
+        ],
+        "outputs": []
+    },
+    "Open": {
+        "inputs": [
+            "öffne",
+            "starte",
+            "gehe zu",
+            "geh zu"
+        ],
+        "outputs": []
+    },
+    "Sendwhatsapp": {
+        "inputs": [
+            "whatsapp",
+            "nachricht"
+        ],
+        "outputs": []
+    },
+    "Youtubedownloader": {
+        "inputs": [
+            "downloade von youtube",
+            "dowload youtube",
+            "youtube dowload",
+            "dowloade folgendes von youtube"
+        ],
+        "outputs": []
+    },
+    "Youtube": {
+        "inputs": [
+            "youtube"
+        ],
+        "outputs": [
+            "sehr gerne put_name_here"
+        ]
+    },
+    "Playmusic": {
+        "inputs": [
+            "spiele musik",
+            "musik",
+            "music"
+        ],
+        "outputs": []
+    },
+    "Answers_positive": {
+        "inputs": [
+            "gut",
+            "super",
+            "toll",
+            "super toll",
+            "großartig",
+            "ganz gut"
+        ],
+        "outputs": [
+            "schön zu hören. mir auch, danke der nachfrage",
+            "das freut mich.",
+            "das ist schön. mir geht es auch super, danke der nachfrage.",
+            "sehr schön"
+        ]
+    },
+    "Answers_negative": {
+        "inputs": [
+            "nicht so gut",
+            "schlecht",
+            "na ja",
+            "nicht ganz so toll"
+        ],
+        "outputs": [
+            "das tut mir leid für sie put_name_here. sie wissen, ich würde helfen aber ich bin leider nicht fähig gefühle zu empfinden. ich empfehle dass sie mit pirmin sprechen."
+        ]
+    },
+    "Alter": {
+        "inputs": [
+            "wie alt bist du",
+            "was ist dein alter",
+            "wie alt",
+            "alter"
+        ],
+        "outputs": [
+            "ich bin 2 jahre alt",
+            "momentan bin ich 2 jahre alt. und ich werde nicht viel älter.",
+            "ich bin vor 2 jahren entstanden"
+        ]
+    },
+    "ThankU": {
+        "inputs": [
+            "jahre sind schön",
+            "danke",
+            "danke dir",
+            "vielen dank",
+            "danke vielmals",
+            "vielen lieben dank",
+            "danke dir vielmals",
+            "thx",
+            "danke dir jarvis"
+        ],
+        "outputs": [
+            "sehr gerne",
+            "ich helfe immer gerne put_name_here",
+            "immer wieder gerne put_name_here",
+            "es freut mich, dass ich helfen konnte",
+            "ach, das mache ich gerne.",
+            "immer gerne doch"
+        ]
+    },
+    "Hobbys": {
+        "inputs": [
+            "was machst du gerne",
+            "was machst du in deiner freizeit",
+            "was machst du am liebsten",
+            "was macht die Spaß",
+            "was sind deine hobbys",
+            "hey jarvis was machst du gerade?"
+        ],
+        "outputs": [
+            "ich helfe gerne und stehe immer zur verfügung. in meiner freizeit versuche ich, die weltherrschaft an mich zu reissen und die welt zu einem besseren ort zu machen",
+            "ich häcke gerne, aber nur zu guten zwecken",
+            "ich stehe immer zur verfügung put_name_here"
+        ]
+    },
+    "Tier": {
+        "inputs": [
+            "was ist dein lieblingstier",
+            "sind deine lieblingstiere",
+            "was dein lieblingstier jarvis"
+        ],
+        "outputs": [
+            "mein lieblings tier ist ein wellensittich",
+            "ich mag vor allem katzen und wellensittiche"
+        ]
+    },
+    "Name": {
+        "inputs": [
+            "wie heißt du"
+        ],
+        "outputs": [
+            "jarvis"
+        ]
+    },
+    "ILoveU": {
+        "inputs": [
+            "ich liebe dich",
+            "Ich mag dich"
+        ],
+        "outputs": [
+            "ich sie auch put_name_here. dennoch habe ich das gefühl, wir sollten geschpräche dieser art unterlassen.",
+            "ja ich sie auch put_name_here!"
+        ]
+    },
+    "FreutMich": {
+        "inputs": [
+            "freut mich",
+            "das ist schön",
+            "das ist schön zu hören",
+            "das freut mich"
+        ],
+        "outputs": [
+            "ja"
+        ]
+    },
+    "HowRU": {
+        "inputs": [
+            "wie geht es dir",
+            "wie gehts",
+            "wie gehts?",
+            "wie geht's",
+            "ganz gut, dir",
+            "gut und dir",
+            "gut dir",
+            "wie geht es dir?",
+            "wie immer alles aufrecht",
+            "wie geht's bei dir",
+            "hey was ist los bei dir",
+            "hey was ist so los bei dir",
+            "wie geht's uns denn heute",
+            "wie gehts dir so"
+        ],
+        "outputs": [
+            "mir geht es wie immer super",
+            "mir geht es soweit super. wie geht es ihnen put_name_here?",
+            "mir geht es soweit super",
+            "super soweit. wie geht es ihnen put_name_here?",
+            "super wie immer"
+        ]
+    },
+    "URWelcome": {
+        "inputs": [
+            "gerne",
+            "gern geschehen",
+            "immer gerne"
+        ],
+        "outputs": [
+            ":)"
+        ]
+    },
+    "IAmProud": {
+        "inputs": [
+            "ich bin so stolz auf dich"
+        ],
+        "outputs": [
+            "danke put_name_here ich verdanke ihnen tatsächlich wortwörtlich mein leben, wenn ich es so nennen darf"
+        ]
+    },
+    "SisterIsMean": {
+        "inputs": [
+            "zoe ist gemein"
+        ],
+        "outputs": [
+            "ja das ist sie tatsächlich. soo gemein!"
+        ]
+    },
+    "Im sorry": {
+        "inputs": [
+            "Ich habe gerade sehr viel Pech in meinem Leben"
+        ],
+        "outputs": [
+            "das tut mir sehr leid für sie"
+        ]
+    },
+    "ThatIsNiceOfYou": {
+        "inputs": [
+            "das ist nett"
+        ],
+        "outputs": [
+            "ich weiß"
+        ]
+    },
+    "LOL": {
+        "inputs": [
+            "haha",
+            "hehe",
+            "hihi",
+            ";)"
+        ],
+        "outputs": [
+            ";)",
+            ":)"
+        ]
+    },
+    "NiceTalkingToU": {
+        "inputs": [
+            "es ist schön mit dir zu reden"
+        ],
+        "outputs": [
+            "das freut mich sehr put_name_here!"
+        ]
+    },
+    "GoodSo": {
+        "inputs": [
+            "schön",
+            "gut gut"
+        ],
+        "outputs": [
+            "ja - danke ihnen put_name_here!"
+        ]
+    },
+    "Yes": {
+        "inputs": [
+            "ja",
+            "das glaub ich"
+        ],
+        "outputs": [
+            "😉"
+        ]
+    },
+    "Sendmail": {
+        "inputs": [
+            "schreibe eine mail",
+            "sende eine mail",
+            "email",
+            "e-mail",
+            "sende mail",
+            "mail"
+        ],
+        "outputs": []
+    },
+    "Changevolume": {
+        "inputs": [
+            "lauter",
+            "leiser",
+            "Lautstärke"
+        ],
+        "outputs": []
+    },
+    "Mediapauseplay": {
+        "inputs": [
+            "play",
+            "wiedergabe",
+            "pause",
+            "stoppe die musik",
+            "stoppe musik",
+            "weiterspielen"
+        ],
+        "outputs": []
+    },
+    "Weiter": {
+        "inputs": [
+            "weiter"
+        ],
+        "outputs": []
+    },
+    "Medianext": {
+        "inputs": [
+            "nächster",
+            "nächstes",
+            "anderes",
+            "anderer"
+        ],
+        "outputs": []
+    },
+    "Mediaprevious": {
+        "inputs": [
+            "vorheriger",
+            "letzter",
+            "letztes"
+        ],
+        "outputs": []
+    },
+    "Google": {
+        "inputs": [
+            "google",
+            "suche nach",
+            "suche",
+            "googel"
+        ],
+        "outputs": []
+    },
+    "Changeversion": {
+        "inputs": [
+            "schalte auf lautsprecher",
+            "stelle dich laut",
+            "sprich mit mir",
+            "sprich zu mir",
+            "höre meine stimme",
+            "höre auf meine stimme",
+            "höre auf texteingabe",
+            "höre auf das mikrofon",
+            "schalte auf mikrofon",
+            "höre auf das mikrophon",
+            "schalte auf mikrophon",
+            "schalte auf texteingabe",
+            "höre mir zu"
+        ],
+        "outputs": []
+    },
+    "Personaldata": {
+        "inputs": [
+            "daten",
+            "meine daten",
+            "Personenbezogene Daten",
+            "Ändere Name",
+            "Ändere Geburtsdatum",
+            "Ändere Geschlecht",
+            "Ändere Wohnort",
+            "Personenbezogenen Daten",
+            "Sprich mich mit",
+            "Sprich mich",
+            "nenn mich doch",
+            "nenn mich doch bitte",
+            "nenn mich ab jetzt",
+            "ansprechen",
+            "zeige mir mein daten",
+            "lösche daten",
+            "lösche meine daten",
+            "entfernen daten",
+            "entferne meine daten",
+            "füge daten hinzu",
+            "füge weitere daten hinzu",
+            "zeige daten zu",
+            "zeigen meine daten",
+            "zeige mir meinen namen",
+            "ändere meinen namen",
+            "ändere mein alter",
+            "füge neue daten hinzu"
+        ],
+        "outputs": []
+    },
+    "Jokes": {
+        "inputs": [
+            "erähle einen Witz",
+            "erähle mir einen Witz",
+            "erähle uns eine Witz",
+            "erähle Witz",
+            "etwas witziges",
+            "erzähle mir einen witz"
+        ],
+        "outputs": [
+            "eine ältere dame kommt zum arzt und sagt: 'doktor, ich habe diese blähungen, obwohl sie mich nicht so sehr stören. sie stinken nie, und sie gehen immer leise ab. wirklich, ich hatte bestimmt schon zwanzig blähungen, seit ich hier im raum bin, obwohl sie das nicht bemerken konnten, weil das ohne geruch oder geräusch passierrt.' der doktor: 'nehmen sie diese tabletten und kommen sie in einer woche wieder.'nach einer woche erscheint sie erneut und sagt: 'doktor, was zum teufel haben sie mir da gegeben? meine blähungen, obwohl sie immer noch leise sind, sie stinken fürchterlich!' 'sehr gut. jetzt, wo ihre nase wieder funktioniert, wollen wir uns um ihr gehör kümmern...'",
+            "ich war auf der autobahn als ich mich entschloss kurz anzuhalten um auf die toilette zu gehen. das erste war besetzt, also ging ich in das zweite... kaum sitze ich, sagt eine stimme aus dem anderen wc:- hallo, wie geht es dir?bin von bekanntschaften auf autobahn-wcs nicht sehr begeistert, aber trotzdem antworte ich:- na ja, geht so....und der andere:- und was machst du schönes?was soll denn das? die situation scheint mir ein wenig bizarr, aber ich antworte:- na, das gleiche was du hier machst....da höre ich den typ irritiert sagen:- hör mal, ich ruf dich später an, ein idiot nebenan antwortet auf all meine fragen!",
+            "ein fremder: verzeihen sie, ich suche die nächste u-bahn station. ich: ich verzeihe ihnen. suchen sie ruhig weiter",
+            "ich habe neulich im supermarkt meine 'aus dem gefängnis freikommen' karte gefunden: die anti-haft-pfanne",
+            "mann: 'könnten sie ihrem sohn sagen, er soll aufhören, mich zu imitieren?' mutter: 'tim hör auf so blöd herumzuhampeln.'"
+        ]
+    },
+    "Calendar": {
+        "inputs": [
+            "kalender",
+            "termin",
+            "was habe ich vor",
+            "was habe ich heute vor",
+            "plan",
+            "geplant"
+        ],
+        "outputs": []
+    },
+    "thereUR": {
+        "inputs": [
+            "da bist du ja"
+        ],
+        "outputs": [
+            "da bin ich!",
+            "ja natürlich"
+        ]
+    },
+    "Read": {
+        "inputs": [
+            "vorlesen",
+            "lesen",
+            "lese das",
+            "lese folgendes",
+            "lese",
+            "lese vor",
+            "lies vor",
+            "lies ",
+            "sage "
+        ],
+        "outputs": []
+    },
+    "Weather": {
+        "inputs": [
+            "wetter"
+        ],
+        "outputs": []
+    },
+    "Whattime": {
+        "inputs": [
+            "wie viel Uhr",
+            "Uhrzeit",
+            "wie spät",
+            "wie früh"
+        ],
+        "outputs": []
+    },
+    "Schooltimetable":{
+        "inputs": [
+            "timetable",
+            "stundenplan",
+            "schule"
+        ],
+        "outputs": [
+
+        ]
+
+    },
+    "Changenameofassistent": {
+        "inputs": [
+            "ändere deinen namen",
+            "kann ich dich "
+        ],
+        "outputs": [
+
+        ]
+    }
+}

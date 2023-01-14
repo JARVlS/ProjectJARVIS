@@ -1,0 +1,71 @@
+{
+    "language": "de",
+    "CommonReceavers": {
+        "pirmin": "pirmin.bothur@gmx.de",
+        "timo": "timo.stolz@gmail.com",
+        "ingo": "ingo.stolz@gmx.net",
+        "annette": "annette.stolz@adacap.com",
+        "michael": "michael.grass@gmail.com",
+        "isabel": "Isabel2201@web.de",
+        "mama": "Isabel2201@web.de",
+        "ich": "leon.grass@gmx.net",
+        "mich": "leon.grass@gmx.net",
+        "leon": "leon.grass@gmx.net"
+    },
+    "yes": [
+        "ja",
+        "y",
+        "yes",
+        "jap",
+        "jawoll",
+        "jas",
+        "jup",
+        "genau",
+        "ja bitte",
+        "ja gerne",
+        "ja gerne doch",
+        "gerne",
+        "gerne doch",
+        "bitte",
+        "jo",
+        "jawohl",
+        "yo"
+    ],
+    "open": {
+        "whatsapp": "WhatsApp Desktop.lnk",
+        "spotify": "C:/Users/leong/AppData/Roaming/Spotify/Spotify.exe",
+        "firefox": "C:/Users/Leon/AppData/Local/Mozilla Firefox/firefox.exe",
+        "visual studio code": "C:/Program Files/Microsoft VS Code/code.exe",
+        "visual-studio-code": "C:/Program Files/Microsoft VS Code/code.exe",
+        "word": "C:/Program Files/Microsoft Office/root/Office16/WINWORD.EXE",
+        "gimp": "C:/Program Files/GIMP 2/bin/gimp-2.10.exe",
+        "terminal": "%windir%/system32/cmd.exe",
+        "powerpoint": "c:/program files/microsoft office/root/office16/powerpnt.exe",
+        "discord": "C:/Users/leong/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Discord Inc/Discord.lnk",
+        "übersetzer": "www.deepl.com/",
+        "youtube": "www.youtube.de/",
+        "lp": "https://lp.kant.de/",
+        "lernplattform": "https://lp.kant.de/",
+        "netflix": "www.netflix.com",
+        "udemy": "https://www.udemy.com",
+        "stundenplan": "https://borys.webuntis.com/webuntis/?school=kant-gym+weil+am+rhein#/basic/timetable",
+        "jetbrains academy": "https://hyperskill.org/",
+        "einstellungen": "abbrechen"
+    },
+    "PersonalData": {
+        "Name": "Sir",
+        "Alter": "16",
+        "Wohnort": "Basel",
+        "Geschlecht": "männlich",
+        "Beruf": "Informatiker",
+        "Geburtsdatum": "28.11.2004"
+    },
+    "KalenderKeywords": [
+        "kalender",
+        "plan",
+        "termin"
+    ],
+    "name_of_programm": "biest",
+    "merken": [],
+    "read": "Der Haushund (Canis lupus familiaris) ist ein Haustier und wird als Heim- und Nutztier gehalten. Seine wilde Stammform ist der Wolf, dem er als Unterart zugeordnet wird. Wann die Domestizierung stattfand, ist umstritten; wissenschaftliche Schätzungen variieren zwischen etwa 15.000 v. u. Z. und 100.000 Jahren."
+}
